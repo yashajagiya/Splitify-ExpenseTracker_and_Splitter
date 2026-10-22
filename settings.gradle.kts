@@ -16,5 +16,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "expence tracker"
+rootProject.name = "Splitify"
 include(":app")

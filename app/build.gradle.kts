@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.expencetracker"
+    namespace = "com.example.splitify"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.example.expencetracker"
+        applicationId = "com.example.splitify"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
