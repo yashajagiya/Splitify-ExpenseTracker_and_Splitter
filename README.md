@@ -63,7 +63,7 @@ com.example.splitify/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Splitify.git
+   git clone https://github.com/yashajagiya/Splitify-ExpenseTracker_and_Splitter.git
    ```
 2. **Open in Android Studio**
    Open the root directory in **Android Studio (Ladybug or newer)**.
